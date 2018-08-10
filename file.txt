@@ -2,3 +2,4 @@ init file
 version 1
 version 2
 version 3
+fz2-version 1
